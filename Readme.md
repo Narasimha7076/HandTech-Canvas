@@ -1,4 +1,4 @@
-Hand Gesture Painter
+# Hand Gesture Painter
 Hand Gesture Painter is a Python application that allows users to paint on a digital canvas using hand gestures captured through a webcam. The application detects hand gestures using the MediaPipe library and interprets them to perform various painting actions, such as selecting colors, drawing lines, and clearing the canvas.
 
 Features
